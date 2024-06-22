@@ -14,7 +14,7 @@
 ![](https://skillicons.dev/icons?i=kotlin,go,react)
 
 #### Other:
-![](https://skillicons.dev/icons?i=java,typescript,py,svelte)
+![](https://skillicons.dev/icons?i=java,typescript,py,svelte,dotnet)
 
 ### Tools & Services
 
