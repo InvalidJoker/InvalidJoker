@@ -14,8 +14,8 @@
 ![](https://skillicons.dev/icons?i=kotlin,go,react)
 
 #### Other:
-![](https://skillicons.dev/icons?i=java,typescript,py,svelte,dotnet)
+![](https://skillicons.dev/icons?i=java,typescript,py,svelte,dotnet,bash,powershell)
 
 ### Tools & Services
 
-![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker)
+![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,mongodb,unity,unreal)
