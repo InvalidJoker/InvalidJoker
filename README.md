@@ -18,4 +18,4 @@
 
 ### Tools & Services
 
-![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,redis,mongodb,unity,unreal)
+![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,redis,mongodb,unity,unreal,prisma)
