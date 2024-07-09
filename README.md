@@ -11,10 +11,10 @@
 ### Languages & Frameworks
 
 #### Main Languages:
-![](https://skillicons.dev/icons?i=kotlin,go,react)
+![](https://skillicons.dev/icons?i=kotlin,go,react,typescript)
 
 #### Other:
-![](https://skillicons.dev/icons?i=java,typescript,py,svelte,dotnet,bash,powershell)
+![](https://skillicons.dev/icons?i=java,javascript,py,svelte,dotnet,bash,powershell)
 
 ### Tools & Services
 
