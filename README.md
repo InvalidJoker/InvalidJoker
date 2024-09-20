@@ -11,7 +11,7 @@
 ### Languages & Frameworks
 
 #### Main Languages:
-![](https://skillicons.dev/icons?i=kotlin,go,typescript)
+![](https://skillicons.dev/icons?i=kotlin,go,typescript,rust)
 
 #### Other:
 ![](https://skillicons.dev/icons?i=java,javascript,py,react,svelte,dotnet,bash,powershell)
