@@ -2,9 +2,9 @@
 
 - 🔭 × I’m currently working on everything :p
 
-- 🌱 × I’m currently learning **Nothing** o:
+- 🌱 × I’m currently learning **Nothing** 💀
 
-- 💻 × My favourite language is **Go**
+- 💻 × Mostly doing Kotlin, Go, Rust and Web stuff 👀
 
 ## 🚀〣 My Stack:
 
@@ -18,7 +18,7 @@
 
 ### Tools & Services
 
-![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,redis,mongodb,unity,unreal,prisma)
+![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,redis,mongodb,unity,unreal,kubernetes,nix,idea,vscode)
 
 ## ⚡ My Stats
 
