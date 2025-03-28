@@ -10,8 +10,8 @@
 
 ### Languages & Frameworks
 
-#### Main Languages:
-![](https://skillicons.dev/icons?i=kotlin,go,typescript,rust)
+#### Mostly using:
+![](https://skillicons.dev/icons?i=kotlin,go,typescript,rust,next)
 
 #### Other:
 ![](https://skillicons.dev/icons?i=java,javascript,py,react,svelte,dotnet,bash,powershell)
