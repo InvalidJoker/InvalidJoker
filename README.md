@@ -20,8 +20,7 @@
 
 ![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,redis,mongodb,kubernetes,nix,idea,vscode)
 
-
-### Stats
+<!-- ### Stats
 
 <img src="https://github-images.vercel.app/api/card" alt="GitHub Stats" width="480"/>
 
@@ -29,3 +28,4 @@
 
 <img src="https://github-images.vercel.app/api/card/lang" alt="Top Languages" width="480"/>
 
+-->
