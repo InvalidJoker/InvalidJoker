@@ -1,11 +1,11 @@
 ## 👋 About Me
 
-- 🔭 × I’m currently working on everything :p
+- 🔭 × I’m currently working on [Cytooxien](https://cytooxien.net/) :p
 
-- 🌱 × I’m currently learning **Nothing** 💀
+- 🌱 × I’m currently learning **Rust** 💀
 
 - 💻 × Mostly doing Kotlin stuff 👀
-
+<!-- 
 ## 🚀〣 My Stack:
 
 ### Languages & Frameworks
@@ -20,7 +20,7 @@
 
 ![](https://skillicons.dev/icons?i=discord,figma,github,mysql,postgres,linux,docker,redis,mongodb,kubernetes,nix,idea,vscode)
 
-<!-- ### Stats
+### Stats
 
 <img src="https://github-images.vercel.app/api/card" alt="GitHub Stats" width="480"/>
 
