@@ -1,10 +1,10 @@
 ## 👋 About Me
 
-- 🔭 × I’m currently working on [Cytooxien](https://cytooxien.net/) :p
+Hey, I'm **Jannis**, a hobbyist backend developer with a focus on game server infrastructure and Minecraft stuff.
 
-- 🌱 × I’m currently learning **Rust** 💀
-
-- 💻 × Mostly doing Kotlin stuff 👀
+> - 🦀 Currently learning **Rust**
+> - 💻 Mostly working with **Kotlin**
+> - 🧱 Love building systems that are scalable, and a little overengineered 
 <!-- 
 ## 🚀〣 My Stack:
 
