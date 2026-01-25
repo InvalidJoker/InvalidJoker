@@ -4,7 +4,7 @@ Hey, I'm **Jannis**, a hobbyist backend developer with a focus on game server in
 
 > - 🦀 Currently learning **Rust**
 > - 💻 Mostly working with **Kotlin**
-> - 🧱 Love building systems that are scalable, and a little overengineered 
+> - 🧱 Love building scalable game server infrastructure and cloud services
 <!-- 
 ## 🚀〣 My Stack:
 
