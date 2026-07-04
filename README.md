@@ -2,6 +2,7 @@
 
 Hey, I'm **Jannis**, a hobbyist backend developer with a focus on game server infrastructure and Minecraft stuff.
 
+> - 💼 Developer at [Cytooxien](https://www.cytooxien.net/)
 > - 🦀 Currently learning **Rust**
 > - 💻 Mostly working with **Kotlin**
 > - 🧱 Love building scalable game server infrastructure and cloud services
